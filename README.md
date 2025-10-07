@@ -7,7 +7,7 @@
 - 🎓 Student focused on backend development and web technologies
 - 👨‍💻 Passionate about building scalable and efficient applications
 - 🌱 Currently learning Node.js, Express, and modern JavaScript
-- 📫 Reach me at: **[mahmoudkailad4444@gmail.com]**
+- 📫 Reach me at: **mahmoudkailad4444@gmail.com**
 
 ### 🤝 Connect with me
 <p align="left">
