@@ -9,7 +9,7 @@
 - 🌱 Currently learning Node.js, Express, and modern JavaScript
 - 📫 Reach me at: **mahmoudkailad4444@gmail.com**
 
-### 🤝 Connect with me
+### 📫 Get in Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-abo-zied-5623282a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -55,3 +55,5 @@
 - Explore new technologies and best practices in backend development.
 - Collaborate with students and open-source communities to improve skills.
 
+<h3 align="left">Stats:</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherbiiny&show_icons=true&locale=en" alt="mahmoudabozied4" />
