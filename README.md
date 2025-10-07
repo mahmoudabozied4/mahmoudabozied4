@@ -2,6 +2,7 @@
 <h3 align="center">Student Backend Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e470ee75w7ojsei419duhuyr38y8rgi05zh2sv84luo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 ### 💫 About Me
 - 🎓 Student focused on backend development and web technologies
 - 👨‍💻 Passionate about building scalable and efficient applications
