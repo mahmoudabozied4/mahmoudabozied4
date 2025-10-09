@@ -48,14 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudabozied4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudabozied4&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudabozied4&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
 ---
 
 <h3 align="center">💡 LeetCode Stats</h3>
