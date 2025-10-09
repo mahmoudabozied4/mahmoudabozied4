@@ -55,5 +55,10 @@
 - Explore new technologies and best practices in backend development.
 - Collaborate with students and open-source communities to improve skills.
 
-<h3 align="left">Stats:</h3>
+<h3 align="left">📊 GitHub:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudabozied4&show_icons=true&locale=en" alt="mahmoudabozied4" />
+<h3 align="right">📊 Leetcode </h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/__TiredZied__?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+</p>
+
