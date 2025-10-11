@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Mahmoud AboZied</h1>
 <h3 align="center">Student Backend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e470ee75w7ojsei419duhuyr38y8rgi05zh2sv84luo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ### 💫 About Me
 - 🎓 Student focused on backend development and web technologies  
