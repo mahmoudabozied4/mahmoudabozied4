@@ -47,6 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudabozied4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
 ---
 
 <h3 align="center">💡 LeetCode Stats</h3>
