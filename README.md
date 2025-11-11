@@ -17,7 +17,7 @@
   <a href="https://x.com/abozied_jr" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://leetcode.com/u/__TiredZied__/" target="_blank">
+  <a href="https://leetcode.com/u/EpitomeZied/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
@@ -55,5 +55,5 @@
 
 <h3 align="center">💡 LeetCode Stats</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/__TiredZied__?theme=dark&font=Fira+Code&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/EpitomeZied?theme=dark&font=Fira+Code&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
 </p>
