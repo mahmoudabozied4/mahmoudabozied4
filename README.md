@@ -20,6 +20,10 @@
   <a href="https://leetcode.com/u/EpitomeZied/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://codeforces.com/profile/EpitomeZied" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -57,3 +61,13 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/EpitomeZied?theme=dark&font=Fira+Code&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
 </p>
+
+---
+<h3 align="center">💡 CodeForces Stats</h3>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/EpitomeZied" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=EpitomeZied" alt="Codeforces Stats" />
+  </a>
+</p>
+
