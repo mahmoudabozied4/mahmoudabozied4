@@ -59,7 +59,9 @@
 
 <h3 align="center">💡 LeetCode Stats</h3>
 <p align="center">
+  <a href="https://leetcode.com/u/EpitomeZied/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/EpitomeZied?theme=dark&font=Fira+Code&ext=contest&border=0&radius=10" alt="LeetCode Stats" />
+    </a>
 </p>
 
 ---
