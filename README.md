@@ -49,10 +49,14 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
+  <a href="https://github.com/mahmoudabozied4" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudabozied4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+</a>
+  </p>
 <p align="center">
+  <a href="https://github.com/mahmoudabozied4" target="_blank">
   <img alt="Profile view counter on GitHub" src="https://komarev.com/ghpvc/?username=mahmoudabozied4" />
+  </a>
 </p>
 
 ---
