@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=4DF7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mahmoud+AboZied+👋;Backend+Developer;Competitive+Programmer;Codeforces+Expert+💙;LeetCode+Guardian+🟨;Always+learning+new+things!">
 </h1>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> -->
 
 ---
 
